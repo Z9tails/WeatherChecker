@@ -39,7 +39,7 @@ Server-Side API
 - THEN I am again presented with current and future conditions for that city
 
 ## Video
-- https://user-images.githubusercontent.com/100103488/185808303-07205a86-33ff-49ac-9d33-53d453464b55.mp4
+https://user-images.githubusercontent.com/100103488/185808303-07205a86-33ff-49ac-9d33-53d453464b55.mp4
 
 ## Installation
 - Download the files as as set and run in appropriate browser.
